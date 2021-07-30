@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on Machine Learning applications
 
-- 🤔 I’m looking for full time Software Development internships for 2021
+- 🤔 I’m looking for full time SDE roles for 2022
 
 - 📫 How to reach me: https://www.linkedin.com/in/aryanndhir/
 
