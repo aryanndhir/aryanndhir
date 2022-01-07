@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Data Structures and Algorithms
 
-- 🌱 I’m currently learning C++, Python and Django framwework
+- 🌱 I’m currently learning Django framwework, Node.js and Express.js 
 
 - 👯 I’m looking to collaborate on Machine Learning applications
 
