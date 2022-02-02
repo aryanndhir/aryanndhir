@@ -9,7 +9,7 @@
 
 - 🤔 I’m looking for full time SDE roles for 2022
 
-- 📫 How to reach me: https://www.linkedin.com/in/aryanndhir/
+- 📫 How to reach me: <a href="https://linkedin.com/in/aryanndhir/" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aryanndhir" height="30" width="40"/></a>
 
 <br />
 <img src="https://github-readme-stats.vercel.app/api?username=aryanndhir&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
