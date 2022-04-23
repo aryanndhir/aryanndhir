@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning Golang, Node.js and Express.js 
 
-- 👯 I’m looking to collaborate on Machine Learning applications
-
 - 🤔 I’m looking for full time SDE roles for 2022
 
 - 📫 How to reach me: <a href="https://linkedin.com/in/aryanndhir/" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aryanndhir" height="30" width="40"/></a>
