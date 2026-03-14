@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryann</h1>
-<h3 align="center">I'm a software developer at Interactive Brokers, India</h3>
+<h3 align="center">I'm a software developer from India</h3>
 
 - 🌱 I’m currently learning **software design and architecture**
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://linkedin.com/in/aryanndhir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryanndhir" height="30" width="40" /></a> -->
+<a href="https://linkedin.com/in/aryanndhir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryanndhir" height="30" width="40" /></a>
 <!-- <a href="https://www.leetcode.com/aryanndhir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aryanndhir" height="30" width="40" /></a> -->
 </p>
 
